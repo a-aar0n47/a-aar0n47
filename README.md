@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a-aar0n47
 - 👀 I want to develop full-stack applications.
-- 🌱 I’m currently learning Python,C++, Ruby, GoLang, and PHP.
-- 💞️ I’m looking to collaborate on projects using HTML and CSS.
+- 🌱 I’m currently learning Python, C++, GoLang, HTML, CSS, JS, 
+- 💞️ I’m looking to collaborate on projects using HTML and CSS, JS, Pyhton and C++.
 - 📫 How to reach me: aaronmusisi4@gmail.com, aaronmusisi4@outlook.com.
 
 <!---
