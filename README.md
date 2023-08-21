@@ -1,13 +1,12 @@
-# About Me!
-## 👋I’m @a-aar0n47
-My actual name is Aaron Musisi, and I'm an aspiring full-stack software engineer.
+![Header](https://github.com/a-aar0n47/a-aar0n47/blob/main/header.png?raw=true)
 <br>
-
- I want to develop full-stack applications using HTML, CSS, JS, Python, C++ and other languages I will learn.
- I'm still learning the basics so I stay away from frameworks💀
- 💞️ I’m looking to collaborate on projects using HTML and CSS, JS, Pyhton and C++.
- Still trying to grasp some concepts about the fundamentals and GitHub too😁<br>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-aar0n47)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+For programing, I mainly use HTML, CSS, JS, TypeScript Bootsrap, JQuery, SASS, React, Python, C++ and PHP.<br>
+I'm looking to contribute to open source to learn and develope my skills
+<br>
+**NOT** good with READMEs so I'll just leave the rest of this thing blank
+<br>
+I'll also attach this because why not🙂
+ [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-aar0n47)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 <!---
 a-aar0n47/a-aar0n47 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
