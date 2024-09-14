@@ -13,6 +13,7 @@ I'm an aspiring full-stack developer and **high school student** passionate abou
 - Front End Development 🤖
 - Back End Development🖥
 - CryptoCurrency and Blockchain 💱
+- Microsoft Excel📅
 
 ## 👾 Let's Connect:
 
